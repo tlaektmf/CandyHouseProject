@@ -1,4 +1,4 @@
-%YAML 1.1
+﻿%YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
 --- !u!29 &1
 OcclusionCullingSettings:
@@ -199,7 +199,6 @@ GameObject:
   - component: {fileID: 450737990}
   - component: {fileID: 450737989}
   - component: {fileID: 450737988}
-  - component: {fileID: 450737992}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -275,6 +274,7 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -284,6 +284,9 @@ RectTransform:
 =======
 >>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
 >>>>>>> parent of 50246eb... 수정
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
   - {fileID: 1818719183}
   - {fileID: 2063062447}
   - {fileID: 1997042298}
@@ -296,6 +299,7 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -306,6 +310,9 @@ RectTransform:
 =======
 >>>>>>> parent of ce48e30... 수정
 >>>>>>> parent of 50246eb... 수정
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
 --- !u!132 &450737992
 GUIText:
   m_ObjectHideFlags: 0
@@ -330,6 +337,7 @@ GUIText:
   m_PixelCorrect: 1
   m_RichText: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -339,6 +347,9 @@ GUIText:
 =======
 >>>>>>> parent of ce48e30... 수정
 >>>>>>> parent of 50246eb... 수정
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
 --- !u!1 &802756120
 GameObject:
   m_ObjectHideFlags: 0
@@ -418,6 +429,7 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -429,6 +441,9 @@ Transform:
 =======
 --- !u!1 &1012585559
 >>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -446,6 +461,10 @@ GameObject:
   m_IsActive: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
 --- !u!224 &904912378
 RectTransform:
   m_ObjectHideFlags: 0
@@ -504,9 +523,13 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 904912377}
   m_CullTransparentMesh: 0
+<<<<<<< HEAD
 =======
 >>>>>>> parent of ce48e30... 수정
 >>>>>>> parent of 50246eb... 수정
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
 --- !u!1 &1012585559
 GameObject:
   m_ObjectHideFlags: 0
@@ -529,13 +552,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
 --- !u!4 &1012585560
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+<<<<<<< HEAD
 >>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
 =======
 --- !u!4 &1012585560
@@ -545,6 +573,9 @@ Transform:
   m_PrefabInternal: {fileID: 0}
 >>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
 >>>>>>> parent of 50246eb... 수정
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
   m_GameObject: {fileID: 1012585559}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: -0.22000003, z: 0}
@@ -767,6 +798,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 450737991}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 0
 =======
 <<<<<<< HEAD
@@ -775,6 +807,9 @@ RectTransform:
   m_RootOrder: 0
 >>>>>>> parent of ce48e30... 수정
 >>>>>>> parent of 50246eb... 수정
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -802,6 +837,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Font: {fileID: 0}
 =======
 <<<<<<< HEAD
@@ -814,6 +850,9 @@ MonoBehaviour:
     m_Font: {fileID: 12800000, guid: c9f6d0e7bc8541498c9a4799ba184ede, type: 3}
 >>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
 >>>>>>> parent of 50246eb... 수정
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 0
@@ -936,7 +975,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 450737991}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1012,6 +1051,7 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 450737991}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RootOrder: 1
 =======
 <<<<<<< HEAD
@@ -1020,6 +1060,9 @@ RectTransform:
   m_RootOrder: 1
 >>>>>>> parent of ce48e30... 수정
 >>>>>>> parent of 50246eb... 수정
+=======
+
+>>>>>>> parent of 19b3377... ㅇㅅㅇ
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
