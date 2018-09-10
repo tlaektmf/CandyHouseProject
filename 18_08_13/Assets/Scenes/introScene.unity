@@ -274,7 +274,10 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 904912378}
+=======
+>>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
 =======
 >>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
   - {fileID: 1818719183}
@@ -289,7 +292,10 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
 --- !u!132 &450737992
 GUIText:
   m_ObjectHideFlags: 0
@@ -313,6 +319,9 @@ GUIText:
     rgba: 4294967295
   m_PixelCorrect: 1
   m_RichText: 1
+<<<<<<< HEAD
+>>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
+=======
 >>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
 --- !u!1 &802756120
 GameObject:
@@ -393,7 +402,11 @@ Transform:
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &904912377
+=======
+--- !u!1 &1012585559
+>>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
 =======
 --- !u!1 &1012585559
 >>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
@@ -412,6 +425,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!224 &904912378
 RectTransform:
@@ -492,6 +506,13 @@ Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
+=======
+--- !u!4 &1012585560
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+>>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
 =======
 --- !u!4 &1012585560
 Transform:
@@ -748,7 +769,11 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+=======
+    m_Font: {fileID: 12800000, guid: c9f6d0e7bc8541498c9a4799ba184ede, type: 3}
+>>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
 =======
     m_Font: {fileID: 12800000, guid: c9f6d0e7bc8541498c9a4799ba184ede, type: 3}
 >>>>>>> parent of 1ab4b07... Merge branch 'master' of https://github.com/tlaektmf/CandyHouseProject
